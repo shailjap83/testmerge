@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="sdsadsadas" language="en" table="x_snc_deletetestin_sdsadsadas">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>sdsadsadas</label>
+            <language>en</language>
+            <name>x_snc_deletetestin_sdsadsadas</name>
+            <plural>sdsadsadas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-11 02:48:11</sys_created_on>
+            <sys_id>4f1556d7db1cac501b7450b1f39619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sdsadsadas</sys_name>
+            <sys_package display_value="deletetesting" source="x_snc_deletetestin">acb3355e1bff9850044b631d274bcbdf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="deletetesting">acb3355e1bff9850044b631d274bcbdf</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_deletetestin_sdsadsadas__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-11 02:48:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
