@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_deletetestin.dsadsadasdsa</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>dsadsadasdsa</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-11 02:46:38</sys_created_on>
+        <sys_id>cfb41e97db1cac501b7450b1f3961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_deletetestin.dsadsadasdsa</sys_name>
+        <sys_package display_value="deletetesting" source="x_snc_deletetestin">acb3355e1bff9850044b631d274bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="deletetesting">acb3355e1bff9850044b631d274bcbdf</sys_scope>
+        <sys_update_name>sys_user_role_cfb41e97db1cac501b7450b1f3961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 02:46:38</sys_updated_on>
+    </sys_user_role>
+</record_update>
