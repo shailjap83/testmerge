@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_deletetestin.dfdfdseer" name="x_snc_deletetestin.dfdfdseer">6c869a5bdb1cac501b7450b1f39619ce</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-11 02:54:27</sys_created_on>
+        <sys_id>36861e1bdb1cac501b7450b1f3961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6c869a5bdb1cac501b7450b1f39619ce</sys_name>
+        <sys_package display_value="deletetesting" source="x_snc_deletetestin">acb3355e1bff9850044b631d274bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="deletetesting">acb3355e1bff9850044b631d274bcbdf</sys_scope>
+        <sys_update_name>sys_embedded_help_role_36861e1bdb1cac501b7450b1f3961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 02:54:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
